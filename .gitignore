@@ -194,3 +194,5 @@ cython_debug/
 .cursorindexingignore__pycache__/
 *.py[cod]
 recipes.db
+groceries.txt
+plan.txt
