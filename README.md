@@ -1,10 +1,5 @@
 # recipe-drawer
 A simple tool to help you decide what to cook tonight
-# README.md
-# ---------
-# Recipe Drawer CLI
-
-A simple command-line tool to manage and randomize recipes using SQLite.
 
 ## Features
 - Initialize DB with samples: `init` (`--force` to reset)
