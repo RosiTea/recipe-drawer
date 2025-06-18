@@ -1,0 +1,4 @@
+# requirements.txt
+# ----------------
+SQLAlchemy==1.4
+click==8.0
