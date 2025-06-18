@@ -10,7 +10,7 @@ A simple tool to help you decide what to cook tonight
 - Export grocery list aggregating quantities: `grocery -n 3 -f list.txt`
 
 ## Installation
-1. Clone the repo and `cd recipe_randomizer`
+1. Clone the repo and `cd recipe-drawer`
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
