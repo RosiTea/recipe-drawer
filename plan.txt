@@ -1,9 +1,0 @@
-# Project: Recipe Drawer CLI
-# --------------------------------
-# Structure:
-# 
-# recipe-drawer/
-# ├── models.py         # SQLAlchemy models & DB init/sample data
-# ├── cli.py            # Click-based CLI for random, init, grocery
-# ├── recipes.db        # SQLite DB (auto-created)
-# └── requirements.txt  # Dependencies
