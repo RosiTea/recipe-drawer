@@ -196,3 +196,6 @@ cython_debug/
 recipes.db
 groceries.txt
 plan.txt
+
+# DS store
+.DS_Store
