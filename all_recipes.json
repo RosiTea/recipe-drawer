@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Quick Pancakes",
+    "ingredients": {
+      "plain flour": "200 g",
+      "milk": "250 ml",
+      "egg": "1",
+      "baking powder": "1 tsp",
+      "salt": "pinch"
+    },
+    "steps": [
+      "Whisk dry",
+      "Add wet and whisk",
+      "Rest 5 min",
+      "Cook on medium until bubbles",
+      "Flip and finish"
+    ],
+    "tags": [
+      "breakfast",
+      "vegetarian"
+    ]
+  },
+  {
+    "title": "Spaghetti Aglio e Olio",
+    "ingredients": {
+      "spaghetti": "400 g",
+      "garlic": "6 cloves",
+      "olive oil": "80 ml",
+      "red chilli flakes": "1 tsp",
+      "parsley": "small bunch",
+      "salt": "to taste"
+    },
+    "steps": [
+      "Cook pasta al dente",
+      "Gently sizzle garlic in oil",
+      "Add chilli",
+      "Toss pasta with oil and pasta water",
+      "Finish with parsley and salt"
+    ],
+    "tags": [
+      "italian",
+      "quick",
+      "vegan"
+    ]
+  },
+  {
+    "title": "Spinach Egg Omelette",
+    "ingredients": {
+      "spinach": "250g",
+      "eggs": "4",
+      "salt": "1 tsp",
+      "pepper": "1 tsp"
+    },
+    "steps": [
+      "Beat the eggs with salt and pepper",
+      "Blench spinach then squeeze dry and cool",
+      "Mix egg and spinach",
+      "Heat a pan and add oil and mixture - low heat",
+      "Roll on pan"
+    ],
+    "tags": [
+      "breakfast",
+      "quick",
+      "vegetarian"
+    ]
+  }
+]
