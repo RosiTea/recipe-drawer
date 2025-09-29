@@ -193,9 +193,15 @@ cython_debug/
 .cursorignore
 .cursorindexingignore__pycache__/
 *.py[cod]
+
+# Files
 recipes.db
 groceries.txt
 plan.txt
+all_recipes.json
+recipes.jsonl
+recipes.snapshot.json 
+recipes.sqlite
 
 # DS store
 .DS_Store
